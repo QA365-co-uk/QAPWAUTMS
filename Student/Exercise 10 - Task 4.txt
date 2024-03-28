@@ -1,0 +1,33 @@
+https://graph.microsoft.com/v1.0/groups?$select=displayName,mail,securityEnabled
+
+
+{
+    "type": "object",
+    "properties": {
+        "@@odata.context": {
+            "type": "string"
+        },
+        "value": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "displayName": {
+                        "type": "string"
+                    },
+                    "mail": {
+                        "type": ["string", "null"]
+                    },
+                    "securityEnabled": {
+                        "type": "boolean"
+                    }
+                },
+                "required": [
+                    "displayName",
+                    "mail",
+                    "securityEnabled"
+                ]
+            }
+        }
+    }
+}
