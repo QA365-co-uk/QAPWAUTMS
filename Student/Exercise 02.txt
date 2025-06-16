@@ -1,0 +1,21 @@
+if(equals(triggerBody()['text_1'],'Started'),0.3,if(equals(triggerBody()['text_1'],'In Progress'),0.7,1))
+
+
+convertFromUTC(
+    addDays(
+        utcNow(),
+        triggerBody()['number']
+    ),
+    'GMT Standard Time',
+    'dd/MM/yyyy'
+)
+
+
+formatNumber(
+    mul(
+        triggerBody()['number'],
+        triggerBody()['number_1']
+    ),
+    'C',
+    'en-GB'
+)
