@@ -1,0 +1,10 @@
+AFA STUDENT01 -	Alistair PC01-QAPWAUTMS-24112025
+
+Lab URL:	https://www.gotomypc.com/sc/E702C07A022A650808BB919AA5AC7730
+Email:   	virtualroom27@qa.com
+Password:  	QARemoteClassroom#11
+Access Code:	password0375
+
+
+UserName:	QA@QADelegate01005256.onmicrosoft.com
+Password:	X(107696950494uh
