@@ -5,7 +5,7 @@ AFA STUDENT07 -	Rikki	PC07-QAPWAUTMS-16022026
 
 	    Lab URL:	https://www.gotomypc.com/sc/BFC0E1E02E05DED5DACF919C5744D208
 
-	      Email:   	ukls.202@qa.com
+	      Email:   	ukls.201@qa.com
 	   Password:  	QARemoteClassroom#11
 
 	Access Code:	password6485

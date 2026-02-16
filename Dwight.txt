@@ -5,7 +5,7 @@ AFA STUDENT02 -	Dwight	PC02-QAPWAUTMS-16022026
 
 	    Lab URL:	https://www.gotomypc.com/sc/DC83B7BA83A048243830D19C57442FB2
 
-	      Email:   	ukls.202@qa.com
+	      Email:   	ukls.201@qa.com
 	   Password:  	QARemoteClassroom#11
 
 	Access Code:	password6485

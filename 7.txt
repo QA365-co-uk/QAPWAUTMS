@@ -7,7 +7,7 @@ AFA STUDENT09 -	7	PC09-QAPWAUTMS-16022026
 
 	    Lab URL:	https://www.gotomypc.com/sc/FFFB46475A00788E7AD5419C57453337
 
-	      Email:   	ukls.202@qa.com
+	      Email:   	ukls.201@qa.com
 	   Password:  	QARemoteClassroom#11
 
 	Access Code:	password6485

@@ -6,7 +6,7 @@ AFA STUDENT08 -	Shamani	PC08-QAPWAUTMS-16022026
 
 	    Lab URL:	https://www.gotomypc.com/sc/9C20A5591BF9AE391D80E19C5745062F
 
-	      Email:   	ukls.202@qa.com
+	      Email:   	ukls.201@qa.com
 	   Password:  	QARemoteClassroom#11
 
 	Access Code:	password6485
